@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(img/Norway-night-mountains-Northern-lights-coast_1920x1080.jpg);
+    background-image: url(img/Norway-night-mountains-Northern-lights-coast_1920x1080.jpg); /*rasim hech ham o'lchami joyiga kelmadi yoki qanday qilishni bilmadim yoki biror joyda xato qildim*/
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
